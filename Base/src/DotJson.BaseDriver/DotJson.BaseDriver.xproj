@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>42e5d6b1-2ccd-4690-a7f5-a84018a670d9</ProjectGuid>
-    <RootNamespace>HoloJson.Base.Tests</RootNamespace>
+    <ProjectGuid>2b326f06-6064-4f97-9242-700158929129</ProjectGuid>
+    <RootNamespace>DotJson.BaseDriver</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>

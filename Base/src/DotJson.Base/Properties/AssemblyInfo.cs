@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HoloJson.Base.Tests")]
+[assembly: AssemblyProduct("DotJson.Base")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("42e5d6b1-2ccd-4690-a7f5-a84018a670d9")]
+[assembly: Guid("c7cde3f4-0fd1-4ba6-8ef1-462aa94305c0")]

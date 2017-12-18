@@ -1,2 +1,2 @@
 # base
-HoloJson Base Library (.Net Core) 
+DotJson Base Library (.Net Core) 
